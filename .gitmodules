@@ -1,0 +1,4 @@
+[submodule "lib/just_gtfs"]
+	path = lib/just_gtfs
+	url = git@github.com:mapsme/just_gtfs.git
+	branch = for-usage-as-submodule
