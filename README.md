@@ -1,3 +1,3 @@
-# Project source files
+# Raptor-cpp
 
-Put your main project files (`CMakeLists.txt`, `.vcxproj` etc.) here. Put your source files here or in subdirectories.
+This project is a copy of a credit project from C++ class. It's a connection finder that uses an algorithm based on the raptor algorithm.
