@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
+"Dopravný podnik Bratislava, a. s.",https://dpb.sk/,sk,20240506,20241231,20240502122915,info@dpb.sk,
